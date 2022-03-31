@@ -1,4 +1,4 @@
-# titanic_survival_prediction
+# Machine Learning: Titanic Survival Prediction Classification Problem
 ### Introduction: 
 EDA + Machine Learning Project done on Kaggle's Titanic Dataset. In this dataset, we are attempting a classification problem, where we try to predict whether a passenger would survive/not survive. 
 link: https://www.kaggle.com/c/titanic
