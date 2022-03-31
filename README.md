@@ -14,15 +14,15 @@ link: https://www.kaggle.com/c/titanic
 8. Submission
 
 #### Features
-pclass (Ticket class: 0,1,2)
-sex	(Sex: male, female)
-Age	(Age of Passenger)
-sibsp	(No. Sibilings aboard)
-parch	(No. of parents/child abaord)
-ticket (Ticket Nuber)
-fare (Fare Price)
-cabin (Cabin Number)
-embarked (Port of embarked: C = Cherbourg, Q = Queenstown, S = Southampton)
+- pclass (Ticket class: 0,1,2)
+- sex	(Sex: male, female)
+- Age	(Age of Passenger)
+- sibsp	(No. Sibilings aboard)
+- parch	(No. of parents/child abaord)
+- ticket (Ticket Nuber)
+- fare (Fare Price)
+- cabin (Cabin Number)
+- embarked (Port of embarked: C = Cherbourg, Q = Queenstown, S = Southampton)
 
 #### Label
 survival (0 = No, 1 = yes)
